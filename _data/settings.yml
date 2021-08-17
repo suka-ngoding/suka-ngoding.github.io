@@ -9,26 +9,26 @@ description: Coretan dari orang yang suka ngoding
 # Author Settings
 author:
   name: Andreas Asatera
-  image: 01.jpg
-  say-hello: Hi, Saya <strong>Andreas</strong>
-  bio: Cuma orang biasa yang suka ngoding.
+  image: hero.jpg
+  say-hello: <strong>Suka Ngoding</strong>
+  bio: Sebuah website untuk anda yang suka ngoding.
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+twitter: https://twitter.com/andreas_asatera # Add your Twitter handle
+facebook: https://facebook.com/Coziboy # Add your Facebook handle
+dribbble: # Add your Dribbble handle
+instagram: https://instagram.com/eas.andreas # Add your Instagram handle
+pinterest: # Add your Pinterest handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: suka-ngoding # add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: eas.andreas # Add instagram username
 
 #-------------------------------
 # Google Analytics
